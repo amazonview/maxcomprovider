@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Disneyplus TV'
+project = 'Max Providers'
 
 
 # The full version, including alpha/beta/rc tags
