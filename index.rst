@@ -10,7 +10,7 @@ How to Connect Max Providers Using max.com/providers
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_32.png
    :width: 350px
    :align: center
    :height: 100px
