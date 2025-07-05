@@ -1,5 +1,5 @@
 ##################
-How to Connect Max Providers Using max.com/providers
+Step-by-Step Guide to Connecting Providers on Max.com
 ##################
 
 .. meta::
